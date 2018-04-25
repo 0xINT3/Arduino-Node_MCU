@@ -7,9 +7,9 @@ int nRainVal;
 boolean bIsRaining = false;
 String strRaining;
 
-String apiKey = "5T49MWF9ZZ19GILJ";
-const char* ssid = "gaurav";
-const char* password = "12345678";
+String apiKey = "*********";
+const char* ssid = "*****";
+const char* password = "****";
 
 const char* server = "api.thingspeak.com";
 
