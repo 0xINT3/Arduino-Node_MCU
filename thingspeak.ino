@@ -2,9 +2,9 @@
 #include <Wire.h>
 
 // replace with your channel's thingspeak API key,
-String apiKey = "9W0JHGC4MMJO7J8P";
-const char* ssid = "Boi";
-const char* password = "12345678";
+String apiKey = "*******";
+const char* ssid = "******";
+const char* password = "******";
 
 const char* server = "api.thingspeak.com";
 int WET = 16; // Wet Indicator at Digital PIN D0
